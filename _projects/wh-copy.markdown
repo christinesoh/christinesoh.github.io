@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Intermediate Wh-Copies in a Non-Wh-Copying Language
-description: A sentence-processing project with long-distance dependencies
+description: A psycholinguistic project probing intermediate wh-copies
+img: 
 importance: 1
-category: research
+category: in the works
 ---
 
 
