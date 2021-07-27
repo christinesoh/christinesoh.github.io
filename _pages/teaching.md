@@ -2,10 +2,25 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Fall 2021: Teaching assistant for [UPenn LING270 (Language Acquisition)](https://www.ling.upenn.edu/node/208) \
+Instructed by Charles Yang
 
-Organize your courses by years, topics, or universities, however you like!
+Spring 2019: Lab assistant for [MIT 6.036 (Machine Learning)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020/) \
+  Instructed by Leslie Kaelbling, Duane Boning, and Isaac Chuang
+
+2016 - 2020: Mentor at [Girls' Angle](http://www.girlsangle.org/) in Cambridge, MA \
+Under the guidance of Dr. Ken Fan
+
+January 2019: Teacher with [MIT Global Teaching Labs Italy](https://misti.mit.edu/student-programs/location/italy) \
+Taught high school calculus and programming at G. Romani School in Cassalmaggiore, Italy
+
+January 2018: Teacher with [MIT Global Teaching Labs Israel](https://misti.mit.edu/student-programs/location/israel) \
+Taught app-building at ORT middle and high schools in Haifa, Israel
+
+Summer 2017: Instructor with [MIT China Educational Technology Initiative](https://misti.mit.edu/mit-ceti) \
+Taught math, introductory computer science, and linguistics to university students \
+in Kunming, Foshan, Wuhan, and Xining
