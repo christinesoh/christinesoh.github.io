@@ -6,6 +6,12 @@ description:
 nav: true
 ---
 
+Spring 2023: Teaching assistant for [UPenn LING0001 (Introduction to Linguistics)](https://catalog.upenn.edu/courses/ling/) \
+Instructed by Lacey Wade
+
+Fall 2022: Teaching assistant for [UPenn LING2700 (Language Acquisition)](https://www.ling.upenn.edu/node/208) \
+Instructed by Charles Yang
+
 Fall 2021: Teaching assistant for [UPenn LING270 (Language Acquisition)](https://www.ling.upenn.edu/node/208) \
 Instructed by Charles Yang
 

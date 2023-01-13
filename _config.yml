@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Christine Soh Yue # the website title (if blank, full name will be used instead)
 first_name: Christine
 middle_name: Soh
 last_name: Yue
@@ -250,8 +250,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Yue]
+  first_name: [Christine Soh]
 
   style: apa
   locale: en
