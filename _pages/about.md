@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm currently a second-year Ph.D. student in linguistics at the University of Pennsylvania. I work primarily on
+Hi! I'm currently a third-year Ph.D. student in linguistics at the University of Pennsylvania. I work primarily on
 first language acquisition and syntax. I combine theoretical, experimental, and computational approaches to explore the
 mechanisms of language and of language learning. My advisor is [Charles Yang](https://www.ling.upenn.edu/~ycharles/).
 
@@ -25,7 +25,7 @@ guitar, and making things in general!
 
 ### Contact
 
-Feel free to email me at: sohc at sas-dot-upenn-dot-edu
+Feel free to email me at: csohyue at sas-dot-upenn-dot-edu
 
 Department of Linguistics, University of Pennsylvania,  
 3401-C Walnut Street, Suite 300, C Wing,  
