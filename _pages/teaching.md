@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: 
 nav: true
+nav_order: 5
 ---
 
 Spring 2023: Teaching assistant for [UPenn LING0001 (Introduction to Linguistics)](https://catalog.upenn.edu/courses/ling/) \
