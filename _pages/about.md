@@ -14,12 +14,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hi! I'm currently a third-year Ph.D. student in linguistics at the University of Pennsylvania. I work primarily on
+Hi! I'm currently a fourth-year Ph.D. student in linguistics at the University of Pennsylvania. I work primarily on
 first language acquisition and syntax. I combine theoretical, experimental, and computational approaches to explore the
 mechanisms of language and of language learning. My advisor is [Charles Yang](https://www.ling.upenn.edu/~ycharles/), but
 I also work with [Julie Legate](https://www.ling.upenn.edu/~jlegate/) and [Martin Salzmann](https://www.martinsalzmann.com/)
-on interesting problems in syntax and with [John Trueswell](https://web.sas.upenn.edu/trueswell-lab/people/trueswell/) and
-[Sandy Latourrette](https://www.sandy-latourrette.com/) in investigating how children acquire words and rules.
+on interesting problems in syntax, with [John Trueswell](https://web.sas.upenn.edu/trueswell-lab/people/trueswell/) and
+[Sandy Latourrette](https://www.sandy-latourrette.com/) in investigating how children acquire words, and with 
+[Katie Schuler](https://kathrynschuler.com/) in understanding the nature of how children acquire rules.
 
 Before coming to UPenn, I got my B.S. at MIT double majoring in Computer Science (6-3) and Linguistics (24-2). 
 
